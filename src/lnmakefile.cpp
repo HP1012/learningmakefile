@@ -1,5 +1,5 @@
-#include "lnmakefile.h"
-#include "template.h"
+#include "../inc/lnmakefile.h"
+#include "../inc/template.h"
 
 int sum(int a, int b)
 {
